@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+sqlalchemy>=2.0
+pymssql>=2.2
+plotly>=5.18
+flask>=3.0
+gunicorn>=21.2
